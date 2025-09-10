@@ -28,5 +28,3 @@ The goal is to identify trends and patterns using **Excel** for dashboarding and
 2. Run queries from `sql_queries.sql`.
 3. Open `sales_dashboard.xlsx` to view interactive charts.
 
----
-Made for Data Analyst Internship Portfolio.
